@@ -1,0 +1,9 @@
+# Modal deployment
+modal>=0.63.0
+
+# Build tools
+maturin>=1.0.0
+
+# For local testing (optional)
+fastapi[standard]>=0.100.0
+pydantic>=2.0.0
